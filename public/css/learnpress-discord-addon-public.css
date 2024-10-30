@@ -1,0 +1,88 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+div.learnpress-discord{
+  
+    padding: 10px 14px 10px 30px;
+}
+div.learnpress-discord h3{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+div.learnpress-discord i.fab.fa-discord{
+    margin-left: 10px;
+}
+.ets-btn {
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 14px;
+    box-shadow: 0 0;
+    border: 0;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: .0333em;
+    line-height: 1.25;
+    margin: 0;
+    opacity: 1;
+    text-transform: uppercase;
+}
+.learnpress-discord-btn-disconnect{
+    background-color: #FF0000;
+}
+.learnpress-discord-btn-connect{
+    background-color: #77a02e;
+}
+.ets-spinner{
+  background: url(../images/spinner.gif) no-repeat;
+  background-size: auto;
+  background-size: 20px 20px;
+  display: inline-block;
+  visibility: hidden;
+  vertical-align: middle;
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+  width: 20px;
+  height: 20px;
+  margin: 4px 10px 0;
+
+}
+.ets-is-active{
+  visibility: visible;
+}
+ .ets_assigned_role{
+  font-size: 14px;
+ }
+  .ets_assigned_role > span{
+    padding: 0px 7px;
+    border-radius: 12px;
+    color: #fff;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center; 
+    background-color: #878787;
+    margin-right: 5px;
+ }
+ .ets_assigned_role > span > i{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 6px;     
+ }
+a.learnpress-discord-btn-disconnect img ,
+a.learnpress-discord-btn-connect img{
+    width: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+div.connect-with-discord-wrapper{
+    display: inline-block;
+    max-width: none;
+    float: left;
+    margin-bottom: 25px;   
+}

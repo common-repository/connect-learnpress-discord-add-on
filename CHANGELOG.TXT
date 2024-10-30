@@ -1,0 +1,27 @@
+= 1.0.8 =
+- Updated plugin to support WordPress version 6.5
+
+= 1.0.7 =
+- Added documentation links for enhanced user guidance.
+
+= 1.0.6 =
+- Update the dismissible notification asking for review
+
+= 1.0.5 =
+- Add dismissible notification asking for review
+
+= 1.0.4 =
+- Add support WordPress 6.3
+
+= 1.0.3 =
+- Add support WordPress 6.2
+-
+
+= 1.0.2 =
+- Add link to the plugin support forum 
+
+= 1.0.1 =
+- Fix error 10004:Unknown Guild 
+
+= 1.0.0 =
+- Release of Connect LearnPress and Discord WordPress plugin
